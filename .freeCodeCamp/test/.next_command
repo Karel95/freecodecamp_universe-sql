@@ -125,3 +125,6 @@ git ls-remote https://github.com/Karel95/freecodecamp_universe-sql.git
 rm -rf .git
 git remote add origin https://github.com/Karel95/freecodecamp_universe-sql.git
 git add .
+git commit -m 'Init repo'
+git branch -M main
+git push -u origin main
